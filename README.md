@@ -2,7 +2,7 @@
 
 Welcome to **Guardian of Digital Frontiers** – a **Cybersecurity Portfolio Website** built with **HTML, CSS, and JavaScript**. This website showcases **my skills, expertise, and projects** in the field of **Cybersecurity**.  
 
-## 🖼 Demo 
+## 🖼 [Live Demo](https://charithabimsara.github.io/Cybersecurity-Portfolio/)
 
 ![Demo Screenshot](img/demo.png)
 
